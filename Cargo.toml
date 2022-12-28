@@ -1,7 +1,7 @@
 [package]
-name = "rust-template"
+name = "rust-web3-near-auth"
 version = "0.1.0"
-authors = ["Near Inc <hello@near.org>"]
+authors = ["Sarav <sarav.majestic@gmail.com>"]
 edition = "2018"
 
 [lib]
